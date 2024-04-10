@@ -1,0 +1,63 @@
+12:47:16.294 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:47:16.454 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:47:16.523 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:47:16.595 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:47:17.022 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+12:48:50.230 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:48:50.357 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:48:50.421 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:48:55.497 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:49:00.510 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+12:49:48.321 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:49:48.446 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:49:48.513 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:49:53.618 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:49:58.637 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+12:52:15.728 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:52:15.880 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:52:15.942 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:52:26.017 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:52:31.033 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+12:53:07.288 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:53:07.489 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:53:07.556 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:53:17.601 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:53:22.619 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+12:56:47.390 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:56:57.561 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:57:02.718 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:57:07.760 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:57:12.775 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+12:59:31.945 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+12:59:37.094 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+12:59:37.157 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+12:59:37.187 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+12:59:47.200 [main] ERROR Testcases.TC_001_Adminsignin - test failed
+13:00:53.622 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+13:00:58.767 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+13:00:58.829 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+13:00:58.860 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+13:01:08.866 [main] INFO  Testcases.TC_001_Adminsignin - admin signout the account
+13:02:03.214 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+13:02:08.352 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+13:02:08.412 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+13:02:08.539 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+13:02:18.542 [main] INFO  Testcases.TC_001_Adminsignin - admin signout the account
+13:05:51.707 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+13:05:56.843 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+13:05:56.910 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+13:06:06.989 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+13:06:06.989 [main] INFO  Testcases.TC_001_Adminsignin - admin signout the account
+13:11:43.284 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+13:11:48.417 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+13:11:48.476 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+13:11:53.551 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+13:12:07.577 [main] INFO  Testcases.TC_001_Adminsignin - admin signout the account
+13:18:00.574 [main] INFO  Testcases.TC_001_Adminsignin - **Starting of the testcase**
+13:18:05.707 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid email
+13:18:05.771 [main] INFO  Testcases.TC_001_Adminsignin - Entering valid password
+13:18:10.845 [main] INFO  Testcases.TC_001_Adminsignin - Admin login successfull
+13:18:15.848 [main] INFO  Testcases.TC_001_Adminsignin - admin signout the account
+14:03:27.365 [main] INFO  Testcases.TC_002_Blogcreation - *** Strting of the test case blog creation ***
+14:03:46.628 [main] ERROR Testcases.TC_002_Blogcreation - test failed
+14:06:19.217 [main] INFO  Testcases.TC_002_Blogcreation - *** Strting of the test case blog creation ***
